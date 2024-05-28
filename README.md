@@ -1,4 +1,4 @@
-# ZipEntryAccess
+# FastZipEntry
 
 .NET library designed to efficiently retrieve specific entries from a ZIP archive without extracting the entire archive or iterating through all entries. This library leverages modified code from Microsoft's System.IO.Compression.
 
