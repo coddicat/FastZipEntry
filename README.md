@@ -26,7 +26,7 @@ To use FastZipEntry, create an instance by passing a stream of the ZIP file and 
 ```csharp
 using System.IO;
 using System.Text;
-using EfficientZipReader;
+using FastZipEntry;
 
 // Example: Open a ZIP file and create a ZipEntryAccess instance
 using FileStream zipFileStream = new FileStream("path/to/your.zip", FileMode.Open, FileAccess.Read);
