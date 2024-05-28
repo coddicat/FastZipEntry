@@ -74,4 +74,4 @@ Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
 Acknowledgments
-This library is based on modified code from the (Microsoft System.IO.Compression)[https://github.com/dotnet/runtime/tree/9daa4b41eb9f157e79eaf05e2f7451c9c8f6dbdc/src/libraries/System.IO.Compression/src/System/IO/Compression] repository.
+This library is based on modified code from the [Microsoft System.IO.Compression](https://github.com/dotnet/runtime/tree/9daa4b41eb9f157e79eaf05e2f7451c9c8f6dbdc/src/libraries/System.IO.Compression/src/System/IO/Compression) repository.
