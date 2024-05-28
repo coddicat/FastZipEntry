@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>FastZipEntry</PackageId>
+    <Description>
+      Library designed to efficiently retrieve specific entries from a ZIP archive without extracting the entire archive or iterating through all entries. This library leverages modified code from Microsoft's System.IO.Compression.
+    </Description>
+    <Copyright>Rodion Shlomo Solomonyk</Copyright>
+    <RepositoryUrl>https://github.com/coddicat/FastZipEntry</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/coddicat/FastZipEntry</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Zip; Archive; ZipEntry; ArchiveEntry</PackageTags>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
